@@ -1,2 +1,0 @@
-# mebank-test
-test
